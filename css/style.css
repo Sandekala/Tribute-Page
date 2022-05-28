@@ -1,0 +1,42 @@
+main{
+    text-align: center;
+    margin: auto;
+    background-color: rgb(201, 199, 199);
+}
+figure{
+    background-color: white;
+    padding: 10px;
+}
+h1{
+    font-size: 60px;
+    padding: 20px auto 0;
+    margin: auto;
+}
+ul{
+    margin: auto;
+    padding: 10px;
+}
+li{
+    text-align: justify;
+}
+img{
+    display: block;
+    margin: auto;
+    max-width: 100%;
+}
+.info{
+    max-width: 600px;
+    margin: auto;
+    padding: 10px;
+    text-align: left;
+}
+footer{
+    margin-top: 10px;
+    
+}
+footer p{    
+    font-size: 20px;
+    font-weight: 1000;
+    margin-bottom: 10px;
+    padding: 40px;
+}
